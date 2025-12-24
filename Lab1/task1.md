@@ -1,4 +1,4 @@
-# 1. 创建目录结构
+# 创建目录结构
 mkdir -p ~/20250001_ZhangSan/src
 
 mkdir -p ~/20250001_ZhangSan/obj
