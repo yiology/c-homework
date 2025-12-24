@@ -22,3 +22,6 @@
 以“打印菱形”为例，在终端输入：
 ```bash
 gcc task9.c -o diamond
+---
+
+*Last updated: 2025-12-25*
