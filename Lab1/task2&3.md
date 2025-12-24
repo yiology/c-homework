@@ -1,12 +1,15 @@
 # 编写 main.c
 
 touch main.c 
+
 vim main.c
 
 #include <stdio.h>
 
 // 声明外部函数，告诉编译器这两个函数在别的地方定义了
+
 void f1();
+
 void f2();
 
 int main() {
