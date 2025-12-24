@@ -1,4 +1,4 @@
-# 将源文件编译为目标文件，并输出到 obj 文件夹。
+将源文件编译为目标文件，并输出到 obj 文件夹。
 
 ```bash
 gcc -c src/main.c -o obj/main.o
