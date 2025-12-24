@@ -12,7 +12,7 @@ gcc -c src/f2.c -o obj/f2.o
 ```bash
 gcc obj/main.o obj/f1.o obj/f2.o -o bin/all.out
 ```
-## C 语言基础编程 (任务 13-18)
+## C 语言基础编程 (Task 13-18)
 本项目在 src/ 目录下实现了以下编程任务：
 
 | 文件名 | 功能描述 |
