@@ -26,10 +26,13 @@ int main() {
 ```
 # 编写 f1.c
 
+创建并打开文件：
+```bash
 touch f1.c
-
 vim f1.c
-
+```
+输入以下代码：
+```c
 #include <stdio.h>
 
 // 定义函数 f1
@@ -38,13 +41,16 @@ void f1() {
 
     printf("This is function f1.\n");
 }
+```
 
 # 编写 f2.c
-
-touch f2.c
-
-vim f2.c
-
+创建并打开文件：
+```bash
+touch f1.c
+vim f1.c
+```
+输入以下代码：
+```c
 #include <stdio.h>
 
 // 定义函数 f2
@@ -53,4 +59,4 @@ void f2() {
 
     printf("This is function f2.\n");
 }
-
+```
