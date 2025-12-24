@@ -1,3 +1,4 @@
+// 输出数据类型大小
 #include <stdio.h>
 
 int main() {
