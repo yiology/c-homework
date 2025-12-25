@@ -1,6 +1,6 @@
-#多模块编译与头文件
+# 多模块编译与头文件
 
-##文件 1: module.h (头文件)
+## 文件 1: module.h (头文件)
 
 ```c
 #ifndef MODULE_H
@@ -12,7 +12,7 @@ int func2();
 
 #endif
 ```
-##文件 2: main.c (调用)
+## 文件 2: main.c (调用)
 
 ```c
 #include <stdio.h>
