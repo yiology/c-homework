@@ -25,3 +25,14 @@ int main() {
     return 0;
 }
 ```
+
+## 编译与运行流程
+
+第一步：编译 main.c 并将它与 module.o 链接在一起
+```bash
+gcc main.c module.o -o lab4_task8
+```
+第二步：运行生成的可执行程序
+```bash
+./lab4_task8
+```
