@@ -3,7 +3,7 @@
 | 任务 | 文件名 |
 | :--- | :--- |
 | **万年历系统** | `calendar.c` | 
-| **指针分析** | `pointer_analysis.txt` |
+| **指针分析** | `pointer_analysis.md` |
 
 ---
 *Last updated: 2025-12-25*
