@@ -6,7 +6,7 @@
 2. **数据展示**：遍历链表并格式化输出所有学生记录。
 3. **数据检索**：根据学号进行线性搜索。
 4. **数据删除**：安全地从内存中移除特定节点并重新连接链表。
-5. **持久化存储**：使用文件 I/O 流，将内存中的链表数据以二进制格式保存至 `students.dat`，确保程序重启后数据不丢失。
+5. **持久化存储**：使用文件 I/O 流，将内存中的链表数据以二进制格式保存至 `students.data`，确保程序重启后数据不丢失。
 
 
 
@@ -14,8 +14,8 @@
 
 在 Linux 终端执行：
 ```bash
-gcc student_sys.c -o student_sys
-./student_sys
+gcc student_system.c -o student_system
+./student_system
 ```
 ---
 *Last updated: 2025-12-25*
